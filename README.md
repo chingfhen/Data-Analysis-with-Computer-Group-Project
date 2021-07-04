@@ -3,7 +3,7 @@ This project demonstrates the use of data visualisation and statistical techniqu
 
 Topic: Anime
 
-Report - Group 6.pdf
+Report: MH3511 Report - Group 6.pdf
 
 Dataset: anime_cleaned.csv
 
