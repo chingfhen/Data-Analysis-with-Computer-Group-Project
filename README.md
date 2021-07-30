@@ -1,12 +1,4 @@
 # Data-Analysis-with-Computer-Group-Project
-This project demonstrates the use of data visualisation and statistical techniques like ANOVA and t-tests for data analysis. 
+This project performed a variety of  Data visualisation and Statistical Techniques like ANOVA and t-tests. 
 
-Topic: Anime
-
-Report: MH3511 Report - Group 6.pdf
-
-Dataset: anime_cleaned.csv
-
-Proprocessing: Anime Data Pre-processing.ipynb
-
-Preprocessed Dataset: AnimeCleanedData.csv
+Full Report: https://github.com/chingfhen/Data-Analysis-with-Computer-Group-Project/blob/main/MH3511%20Report%20-%20Group%206.pdf
